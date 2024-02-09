@@ -1,0 +1,17 @@
+body {
+    background-image: url('/images/background-image.jpg');
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50vh;
+}
+
+.button-container {
+    text-align: center;
+}
